@@ -1,0 +1,18 @@
+E:\Dropbox\Dropbox\OOP.Net\Content\1. C# Fundamental\Part2\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+E:\Dropbox\Dropbox\OOP.Net\Content\1. C# Fundamental\Part2\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+E:\Dropbox\Dropbox\OOP.Net\Content\1. C# Fundamental\Part2\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+E:\Dropbox\Dropbox\OOP.Net\Content\1. C# Fundamental\Part2\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+E:\Dropbox\Dropbox\OOP.Net\Content\1. C# Fundamental\Part2\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.CalculatorUI.resources
+E:\Dropbox\Dropbox\OOP.Net\Content\1. C# Fundamental\Part2\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+E:\Dropbox\Dropbox\OOP.Net\Content\1. C# Fundamental\Part2\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.Cache
+E:\Dropbox\Dropbox\OOP.Net\Content\1. C# Fundamental\Part2\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+E:\Dropbox\Dropbox\OOP.Net\Content\1. C# Fundamental\Part2\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+D:\SEIP Project (.NET)\document\New folder\2\Code and File\Code and File\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+D:\SEIP Project (.NET)\document\New folder\2\Code and File\Code and File\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+D:\SEIP Project (.NET)\document\New folder\2\Code and File\Code and File\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+D:\SEIP Project (.NET)\document\New folder\2\Code and File\Code and File\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+D:\SEIP Project (.NET)\document\New folder\2\Code and File\Code and File\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+D:\SEIP Project (.NET)\document\New folder\2\Code and File\Code and File\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.CalculatorUI.resources
+D:\SEIP Project (.NET)\document\New folder\2\Code and File\Code and File\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+D:\SEIP Project (.NET)\document\New folder\2\Code and File\Code and File\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.Cache
+D:\SEIP Project (.NET)\document\New folder\2\Code and File\Code and File\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
